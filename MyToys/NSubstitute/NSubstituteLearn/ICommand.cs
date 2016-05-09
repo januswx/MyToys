@@ -9,6 +9,7 @@ namespace NSubstituteLearn
     public interface ICommand : IDisposable 
     {
         void Execute();
+        event EventHandler Executed;
     }
 
     public class CommandRunner
