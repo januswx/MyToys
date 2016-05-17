@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace NSubstituteLearn
 {
-    public interface IFoo
+    public interface IFormatter
     {
-        string Bar(int a, string b);
-
-        void SayHello(string to);
+        string Format(object o);
     }
+
+
 }
