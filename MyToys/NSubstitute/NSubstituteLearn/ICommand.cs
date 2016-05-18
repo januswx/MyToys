@@ -10,6 +10,8 @@ namespace NSubstituteLearn
     {
         void Execute();
         event EventHandler Executed;
+
+        void Run(IConnection connection);
     }
 
     public class CommandRunner
