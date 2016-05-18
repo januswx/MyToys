@@ -65,10 +65,12 @@
     <Compile Include="ICommand.cs" />
     <Compile Include="IContext.cs" />
     <Compile Include="IEngine.cs" />
+    <Compile Include="IEvents.cs" />
     <Compile Include="IFoo.cs" />
     <Compile Include="IFormatter.cs" />
     <Compile Include="ILookup.cs" />
     <Compile Include="INumberParser.cs" />
+    <Compile Include="NUnitTest17.cs" />
     <Compile Include="NUnitTest13.cs" />
     <Compile Include="NUnitTest1.cs" />
     <Compile Include="NUnitTest10.cs" />

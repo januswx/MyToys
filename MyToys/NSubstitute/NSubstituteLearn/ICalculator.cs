@@ -15,5 +15,7 @@ namespace NSubstituteLearn
         string Mode { get; set; }
 
         event EventHandler PoweringUp;
+
+        int Multiply(int a, int b);
     }
 }
