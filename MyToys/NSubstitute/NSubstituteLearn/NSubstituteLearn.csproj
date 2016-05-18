@@ -67,6 +67,7 @@
     <Compile Include="IEngine.cs" />
     <Compile Include="IFoo.cs" />
     <Compile Include="IFormatter.cs" />
+    <Compile Include="ILookup.cs" />
     <Compile Include="INumberParser.cs" />
     <Compile Include="NUnitTest13.cs" />
     <Compile Include="NUnitTest1.cs" />
@@ -74,6 +75,7 @@
     <Compile Include="NUnitTest11.cs" />
     <Compile Include="NUnitTest12.cs" />
     <Compile Include="NUnitTest15.cs" />
+    <Compile Include="NUnitTest16.cs" />
     <Compile Include="NUnitTest2.cs" />
     <Compile Include="NUnitTest3.cs" />
     <Compile Include="NUnitTest4.cs" />
